@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="A4A.Locators.AppTest" duration-ms="12" started-at="2019-11-15T18:35:47Z" finished-at="2019-11-15T18:35:47Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12" started-at="2019-11-15T18:35:47Z" finished-at="2019-11-15T18:35:47Z">
+    </test> <!-- Command line test -->
+  </suite> <!-- A4A.Locators.AppTest -->
+</testng-results>
